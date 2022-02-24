@@ -24,6 +24,8 @@
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanding28&show_icons=true&locale=en&layout=compact" alt="sanding28" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanding28&show_icons=true&locale=en&layout=compact" alt="sanding28" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanding28&" alt="sanding28" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanding28&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanding28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
