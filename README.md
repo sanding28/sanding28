@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 <h1 > I'm Sanding Adhieguna</h1>
-<h3>I am a final semester student who likes to explore with flutter developer and artificial intelligence.</h3>
+<h3>I am a student who likes to explore with flutter developer and artificial intelligence.</h3>
 
 - 🌱 I’m currently learning **Flutter, artficial intelegence, and front end web developer.**
 
