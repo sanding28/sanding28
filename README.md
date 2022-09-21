@@ -8,7 +8,7 @@
 <h1 > I'm Sanding Adhieguna</h1>
 <h3>I am a student who likes to explore with flutter developer and artificial intelligence.</h3>
 
-- 🌱 I’m currently learning **Flutter, artficial intelegence, and front end web developer.**
+- 🌱 I’m currently learning **Flutter and artficial intelegence.**
 
 - 📫 How to reach me **rachmatyasin09@gmail.com**
 
