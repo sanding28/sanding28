@@ -6,9 +6,14 @@
 
 ### Hi there 👋
 <h1 > I'm Sanding Adhieguna</h1>
-<h3>I am a student who likes to explore with flutter developer and artificial intelligence.</h3>
+<!-- <h3>I am a student who likes to explore with flutter developer and artificial intelligence.</h3> -->
+<p>I am a fresh graduate from Telkom University, Bandung, with a bachelor degree in Computer Science. My hard
+skill focus has been on Artificial Intelligence, specializing in machine-learning modeling and data science. In
+addition, I am proficient in flutter development. My skill set extends to leadership and collaborative work,
+adept time management, prioritization, and a confident approach to public speaking skills honed through
+active involvement in various student organizations and committees during my academic journey.</p>
 
-- 🌱 I’m currently learning **Flutter and artficial intelegence.**
+- 🌱 I’m currently learning **Flutter and machine learning.**
 
 - 📫 How to reach me **rachmatyasin09@gmail.com**
 
